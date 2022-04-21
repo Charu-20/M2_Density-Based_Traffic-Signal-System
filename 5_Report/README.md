@@ -77,6 +77,14 @@ Make is a tool which controls the generation of executables and other non-source
  | LR01 | Source code | Implemented |
  | LR02 | LED | Implemented |
  
+ | **Test ID** | **Description**                                              | **Output** |   
+|-------------|--------------------------------------------------------------|-----|
+|  TID_01      |Capture the steps to test and verify each requirement | Implemented |
+|  TID_02      | Test once the Implementation is done| Implemented |
+|  TID_03      |Capture the actual output | Implemented |
+|  TID_04      |Compare results and raise issues and fix the bugs| Implemented | 
+
+ 
 ## Simulation
  ![Simulation](https://user-images.githubusercontent.com/98818208/156919202-a32ef67a-0b6c-4a4a-841e-76f8698df43d.jpg)
 ![Simulation2](https://user-images.githubusercontent.com/98818208/156919204-53eb2989-dd5d-4ee1-9777-61a9fba1b277.jpg)
